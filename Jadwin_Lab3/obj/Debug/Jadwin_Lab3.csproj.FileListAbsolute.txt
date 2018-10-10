@@ -1,0 +1,13 @@
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\bin\Debug\Jadwin_Lab3.exe.config
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\bin\Debug\Jadwin_Lab3.exe
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\bin\Debug\Jadwin_Lab3.pdb
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\obj\Debug\Jadwin_Lab3.csprojResolveAssemblyReference.cache
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\obj\Debug\Jadwin_Lab3.AddNewStdt.resources
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\obj\Debug\Jadwin_Lab3.AddScore.resources
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\obj\Debug\Jadwin_Lab3.stdtScores.resources
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\obj\Debug\Jadwin_Lab3.Properties.Resources.resources
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\obj\Debug\Jadwin_Lab3.UpdateScore.resources
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\obj\Debug\Jadwin_Lab3.UpdateStdntScores.resources
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\obj\Debug\Jadwin_Lab3.csproj.GenerateResource.Cache
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\obj\Debug\Jadwin_Lab3.exe
+D:\Fall2018\cSharp\Jadwin_Lab3\Jadwin_Lab3\obj\Debug\Jadwin_Lab3.pdb
